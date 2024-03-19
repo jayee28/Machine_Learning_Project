@@ -36,3 +36,7 @@ To create version or commit all changes by git
 ```
 git commit -m 'message'
 ```
+To sed version/changes to github
+```
+git push origin main
+```
